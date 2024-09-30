@@ -18,4 +18,4 @@ Or do the following from the command line</p>
 <pre>
 git clone https://github.com/AliofficialIR/CallMe
 </pre>
-CallME works out of the box with [Python](https://www.python.org/download/) version **2.6**, **2.7** and **3.x** on any platform.
+CallME works out of the box with <a href="https://www.python.org/download/">Python</a> version **2.6**, **2.7** and **3.x** on any platform.
