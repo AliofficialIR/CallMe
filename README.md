@@ -15,4 +15,6 @@ On the other hand, this tool needs internet to connect to users and Telegram
 <h1>Installing</h1>
 <p>You have two ways to install this tool, or you can download the compressed project from the Github website and then extract it and use the tool.
 Or do the following from the command line</p>
-    git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+<pre>
+    git clone https://github.com/AliofficialIR/CallMe
+</pre>
