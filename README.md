@@ -39,7 +39,7 @@ and press key ENTER
 <h1>Link</h1>
 <p>Telegram: <a href="https://t.me/Now_Republic_of_Humanity">https://t.me/Now_Republic_of_Humanity</a></p>
 <p>GitHub: <a href="https://github.com/AliofficialIR">https://github.com/AliofficialIR</a></p>
-<p>Email: <a href="alivazirim1@gmail.com">alivazirim1@gmail.com</a></p>
+<p>Email: <a href="alivazirim1@gmail.com" trget="_blank">alivazirim1@gmail.com</a></p>
 <p>Download: <a href="https://github.com/AliofficialIR/CallMe/archive/refs/heads/main.zip">.zip</a> Or <a href="https://github.com/AliofficialIR/CallMe/tarball/master">.tar.gz</a></p>
 
 <h1>Future</h1>
