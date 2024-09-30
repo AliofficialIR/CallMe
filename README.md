@@ -16,5 +16,5 @@ On the other hand, this tool needs internet to connect to users and Telegram
 <p>You have two ways to install this tool, or you can download the compressed project from the Github website and then extract it and use the tool.
 Or do the following from the command line</p>
 <pre>
-    git clone https://github.com/AliofficialIR/CallMe
+git clone https://github.com/AliofficialIR/CallMe
 </pre>
