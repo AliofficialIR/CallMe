@@ -40,3 +40,4 @@ and press key ENTER
 <p>Telegram: <a href="https://t.me/Now_Republic_of_Humanity">https://t.me/Now_Republic_of_Humanity</a></p>
 <p>GitHub: <a href="https://github.com/AliofficialIR">https://github.com/AliofficialIR</a></p>
 <p>Email: <a href="alivazirim1@gmail.com">alivazirim1@gmail.com</a></p>
+<p>Download: download<a href="https://github.com/AliofficialIR/CallMe/archive/refs/heads/main.zip">.zip</a> and <a href="https://github.com/AliofficialIR/CallMe/tarball/master">.tar.gz</a></p>
