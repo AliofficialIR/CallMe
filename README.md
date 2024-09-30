@@ -21,6 +21,10 @@ git clone https://github.com/AliofficialIR/CallMe
 CallME works out of the box with <a href="https://www.python.org/download/">Python</a> version **2.6**, **2.7** and **3.x** on any platform.
 
 <h1>Usage</h1>
+<p>To install the prerequisites, first run the <b>setup.py</b> file to install the prerequisites of the tool</p>
+<pre>
+python setup.py
+</pre>
 <p>You have two options to use the tool, either you want to chat or you want to add a user
 After running the following command
 <pre>
