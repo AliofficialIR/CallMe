@@ -28,4 +28,11 @@ python CallME.py
 </pre>
 You will be asked if you want to add a user or not. If you want to add, press *Y or y* and in the add user section
 Enter your user in *name number* format so that the tool will analyze and check it correctly
-But if you don't want to add a user, press the *N or n* key. By default, if you enter blank, the tool will press the *N or n* key by default. puts</p>
+But if you don't want to add a user, press the *N or n* key. By default, if you enter blank, the tool will press the *N or n* key by default. puts
+for EX:
+<pre>
+ali 123456789
+</pre>
+and press key ENTER
+
+</p>
