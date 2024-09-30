@@ -19,3 +19,13 @@ Or do the following from the command line</p>
 git clone https://github.com/AliofficialIR/CallMe
 </pre>
 CallME works out of the box with <a href="https://www.python.org/download/">Python</a> version **2.6**, **2.7** and **3.x** on any platform.
+
+<h1>Usage</h1>
+<p>You have two options to use the tool, either you want to chat or you want to add a user
+After running the following command
+<pre>
+python CallME.py
+</pre>
+You will be asked if you want to add a user or not. If you want to add, press <Y or y> and in the add user section
+Enter your user in <number name> format so that the tool will analyze and check it correctly
+But if you don't want to add a user, press the <N or n> key. By default, if you enter blank, the tool will press the <N or n> key by default. puts</p>
